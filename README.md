@@ -1,9 +1,7 @@
 
 <h1 align="center"><b>Hi there – I'm Guilherme Crozariol </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Fullstack+engineer;Drummer+and+music+producer;Pet+lover;Is+my+coffee+mug+empty+already?!"></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Fullstack+engineer;Drummer+and+music+producer;Pet+lover;Why+is+my+coffee+mug+empty+again%3F!)](https://git.io/typing-svg)
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **About me**
 
