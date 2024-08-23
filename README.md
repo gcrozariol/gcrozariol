@@ -1,4 +1,3 @@
-
 <h1 align="center"><b>Hi there – I'm Guilherme Crozariol </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Fullstack+engineer;Drummer+and+music+producer;Pet+lover;Why+is+my+coffee+mug+empty+again%3F!)](https://git.io/typing-svg)
@@ -86,6 +85,10 @@
   [![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
   
 <br>
+
+## **Stats**:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gcrozariol&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
 
 ## <b>Let's connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
