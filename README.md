@@ -31,23 +31,23 @@
 
 - **Front-End Development**:
 
+  [![Next.js](https://img.shields.io/badge/Next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=%2361DAFB)](https://nextjs.org/)
+  [![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+  [![Expo](https://img.shields.io/badge/Expo-%238B0000.svg?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
   [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
   [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-  [![Next.js](https://img.shields.io/badge/Next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=%2361DAFB)](https://nextjs.org/)
-  [![Expo](https://img.shields.io/badge/Expo-%238B0000.svg?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
   [![Styled Components](https://img.shields.io/badge/Styled_Components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
   [![Radix UI](https://img.shields.io/badge/Radix_UI-%234CAF50.svg?style=for-the-badge)](https://radix-ui.com/)
 
 <br>
 
 - **Back-End Development**:
 
+  [![Nest.js](https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
   [![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
   [![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
   [![Fastify](https://img.shields.io/badge/Fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)](https://www.fastify.io/)
-  [![Next.js](https://img.shields.io/badge/Next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=%2361DAFB)](https://nextjs.org/)
 
 <br>
 
